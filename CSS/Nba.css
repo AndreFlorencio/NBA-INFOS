@@ -1,9 +1,5 @@
 .padrao {
   font-family: Arial, Helvetica, sans-serif;
-  background-image: radial-gradient(
-    rgba(0, 85, 165, 0.904) 30%,
-    rgb(2, 6, 70)
-  );
 }
 .cabecalho {
   text-decoration: none;
